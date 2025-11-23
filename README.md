@@ -46,25 +46,3 @@ This project uses a beginner-friendly but powerful stack:
 No servers. No backend headaches. Perfect for learners.
 
 ---
-
-## 📁 Folder Structure  
-ProJix/
-│
-├── public/
-│ ├── index.html
-│ └── assets/
-│ └── images/
-│
-├── src/
-│ ├── css/
-│ │ └── style.css
-│ ├── js/
-│ │ ├── auth.js
-│ │ ├── posts.js
-│ │ └── firebase.js
-│ └── pages/
-│ ├── login.html
-│ ├── signup.html
-│ └── dashboard.html
-│
-└── README.md
